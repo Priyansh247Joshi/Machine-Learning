@@ -1,3 +1,1 @@
-# social-bucket
-it is a social site  and will connect multiple people 
-gonna be fun
+This contains implementation of various machine learning algorithms using python.
